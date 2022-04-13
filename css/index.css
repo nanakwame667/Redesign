@@ -367,8 +367,8 @@ a .learn-text {
 
 .about-section-content p{
     font-size: 16px;
-    font-weight: 500;
-    letter-spacing: 8px;
+    font-weight: 800;
+    letter-spacing: 1px;
     color: #fff;
 }
 
@@ -980,11 +980,33 @@ a .learn-text {
         width: 100%;
         margin-top: 25px;
     }
-    .phase-icons img{
-        width: 40%;
-        height: 85px;
+    .phase-icons #one{
+        width: 50%;
+        height: 50%;
     }
-    
+    .phase-icons #two{
+        width: 50%;
+        height: 50%;
+    }
+    .phase-icons #three{
+        width: 30%;
+        height: 30%;
+        margin-top: 60px;
+    }
+    .phase-icons #four{
+        width: 30%;
+        height: 30%;
+    }
+    .phase-icons #five{
+        width: 50%;
+        height: 50%;
+        margin-top: 40px;
+    }
+    .phase-icons #six{
+        width: 40%;
+        height: 40%;
+        margin-top: 40px;
+    }
     .home-footer{
         display: flex;
         flex-direction: column;
@@ -1524,9 +1546,32 @@ a .learn-text {
         width: 100%;
         margin-top: 30px;
     }
-    .phase-icons img{
-        width: 38%;
-        height: 120px;
+    .phase-icons #one{
+        width: 50%;
+        height: 50%;
+    }
+    .phase-icons #two{
+        width: 50%;
+        height: 50%;
+    }
+    .phase-icons #three{
+        width: 30%;
+        height: 30%;
+        margin-top: 60px;
+    }
+    .phase-icons #four{
+        width: 30%;
+        height: 30%;
+    }
+    .phase-icons #five{
+        width: 50%;
+        height: 50%;
+        margin-top: 40px;
+    }
+    .phase-icons #six{
+        width: 40%;
+        height: 40%;
+        margin-top: 40px;
     }
     
     .home-footer{
@@ -1770,7 +1815,7 @@ a .learn-text {
     }
     .about-1-text{
         width: 60%;
-        margin-top: 120px;
+        margin-top: 100px;
     }
     .about-1-text h1{
         font-size: 26px;
@@ -1860,6 +1905,7 @@ a .learn-text {
         border-radius: 50px;
         transition: all 0.2s ease-in-out;
         cursor: pointer;
+        margin-right: 20px;
     }
     .left:hover{
         transform: translate(-5px, 0);
@@ -1869,7 +1915,7 @@ a .learn-text {
         height: 16px;
     }
     .middle img{
-        width: 800px;
+        width: 400px;
     }
     
     .right{
@@ -1882,6 +1928,7 @@ a .learn-text {
         border-radius: 50px;
         transition: all 0.2s ease-in-out;
         cursor: pointer;
+        margin-left: 20px;
     }
     .right:hover{
         transform: translate(5px,0); 
@@ -1984,9 +2031,9 @@ a .learn-text {
     }
     
     .about-section-content p{
-        font-size: 16px;
-        font-weight: 500;
-        letter-spacing: 8px;
+        font-size: 17px;
+        font-weight: 800;
+        letter-spacing: 2px;
         color: #fff;
     }
     
@@ -2057,11 +2104,33 @@ a .learn-text {
         justify-content: space-between;
         width: 50%;
     }
-    .phase-icons img{
-        width: 36%;
-        height: 150px;
+    .phase-icons #one{
+        width: 50%;
+        height: 50%;
     }
-    
+    .phase-icons #two{
+        width: 50%;
+        height: 50%;
+    }
+    .phase-icons #three{
+        width: 30%;
+        height: 30%;
+        margin-top: 60px;
+    }
+    .phase-icons #four{
+        width: 30%;
+        height: 30%;
+    }
+    .phase-icons #five{
+        width: 50%;
+        height: 50%;
+        margin-top: 40px;
+    }
+    .phase-icons #six{
+        width: 40%;
+        height: 40%;
+        margin-top: 40px;
+    }
     .home-footer{
         display: flex;
         flex-direction: column;
@@ -2302,7 +2371,7 @@ a .learn-text {
     }
     .about-1-text{
         width: 70%;
-        margin-top: 120px;
+        margin-top: 100px;
     }
     .about-1-text h1{
         font-size: 30px;
@@ -2392,6 +2461,7 @@ a .learn-text {
         border-radius: 50px;
         transition: all 0.2s ease-in-out;
         cursor: pointer;
+        margin-right: 20px;
     }
     .left:hover{
         transform: translate(-5px, 0);
@@ -2401,7 +2471,7 @@ a .learn-text {
         height: 16px;
     }
     .middle img{
-        width: 800px;
+        width: 400px;
     }
     
     .right{
@@ -2414,6 +2484,7 @@ a .learn-text {
         border-radius: 50px;
         transition: all 0.2s ease-in-out;
         cursor: pointer;
+        margin-left: 20px;
     }
     .right:hover{
         transform: translate(5px,0); 
@@ -2516,9 +2587,9 @@ a .learn-text {
     }
     
     .about-section-content p{
-        font-size: 16px;
-        font-weight: 500;
-        letter-spacing: 8px;
+        font-size: 17x;
+        font-weight: 800;
+        letter-spacing: 2px;
         color: #fff;
     }
     
@@ -2589,9 +2660,32 @@ a .learn-text {
         justify-content: space-between;
         width: 50%;
     }
-    .phase-icons img{
-        width: 36%;
-        height: 150px;
+    .phase-icons #one{
+        width: 50%;
+        height: 50%;
+    }
+    .phase-icons #two{
+        width: 50%;
+        height: 50%;
+    }
+    .phase-icons #three{
+        width: 30%;
+        height: 30%;
+        margin-top: 60px;
+    }
+    .phase-icons #four{
+        width: 30%;
+        height: 30%;
+    }
+    .phase-icons #five{
+        width: 50%;
+        height: 50%;
+        margin-top: 40px;
+    }
+    .phase-icons #six{
+        width: 40%;
+        height: 40%;
+        margin-top: 40px;
     }
     
     .home-footer{
